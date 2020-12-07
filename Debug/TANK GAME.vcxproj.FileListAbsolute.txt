@@ -1,0 +1,4 @@
+C:\Users\zhima\Desktop\C++\VISUAL_STUDIO\TANK GAME\Debug\TANK GAME.exe
+C:\Users\zhima\Desktop\C++\VISUAL_STUDIO\TANK GAME\Debug\TANK GAME.pdb
+C:\Users\zhima\Desktop\C++\VISUAL_STUDIO\SPACE INVADER\Debug\SPACE INVADER.exe
+C:\Users\zhima\Desktop\C++\VISUAL_STUDIO\SPACE INVADER\Debug\SPACE INVADER.pdb
